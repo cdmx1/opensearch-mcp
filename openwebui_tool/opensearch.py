@@ -3,7 +3,7 @@ title: OpenSearch Tool
 author: Roney Dsilva
 git_url: https://github.com/cdmx1/opensearch-mcp
 version: 1.2.1
-description: OpenSearch tool for Open Web UI - search documents, manage indices, and retrieve data from OpenSearch clusters
+description: OpenSearch tool - search documents, manage indices, and retrieve data from OpenSearch clusters
 required_open_webui_version: 0.5.0
 requirements: opensearch-py
 licence: MIT
